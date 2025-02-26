@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/garyfree2024/zdProject/static/css/main.0af81e34.css",
+    "main.js": "/garyfree2024/zdProject/static/js/main.96b74d1b.js",
+    "static/js/453.19ecd426.chunk.js": "/garyfree2024/zdProject/static/js/453.19ecd426.chunk.js",
+    "static/media/web-school.png": "/garyfree2024/zdProject/static/media/web-school.ea8da2809d7bf8c533e7.png",
+    "static/media/web-ttrcsports.jpg": "/garyfree2024/zdProject/static/media/web-ttrcsports.390716cb4ed05ccd50c0.jpg",
+    "static/media/web-love.jpg": "/garyfree2024/zdProject/static/media/web-love.7486e9aad1eb4357d0ee.jpg",
+    "static/media/zd-banner-mountain-highlight.png": "/garyfree2024/zdProject/static/media/zd-banner-mountain-highlight.471d57db91a93b9e8223.png",
+    "static/media/zd-banner-mountain.png": "/garyfree2024/zdProject/static/media/zd-banner-mountain.cd2a79d222e4a176bd8f.png",
+    "static/media/web-tool.jpg": "/garyfree2024/zdProject/static/media/web-tool.eeac87794fffae37cbae.jpg",
+    "static/media/zdLogo.svg": "/garyfree2024/zdProject/static/media/zdLogo.2e1fbea362673968f8e8c2db166de74d.svg",
+    "index.html": "/garyfree2024/zdProject/index.html",
+    "main.0af81e34.css.map": "/garyfree2024/zdProject/static/css/main.0af81e34.css.map",
+    "main.96b74d1b.js.map": "/garyfree2024/zdProject/static/js/main.96b74d1b.js.map",
+    "453.19ecd426.chunk.js.map": "/garyfree2024/zdProject/static/js/453.19ecd426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af81e34.css",
+    "static/js/main.96b74d1b.js"
+  ]
+}
