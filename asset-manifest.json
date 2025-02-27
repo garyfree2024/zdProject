@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/zdProject/static/css/main.0af81e34.css",
-    "main.js": "/zdProject/static/js/main.0a0463c0.js",
-    "static/js/453.19ecd426.chunk.js": "/zdProject/static/js/453.19ecd426.chunk.js",
-    "static/media/web-school.png": "/zdProject/static/media/web-school.ea8da2809d7bf8c533e7.png",
-    "static/media/web-ttrcsports.jpg": "/zdProject/static/media/web-ttrcsports.390716cb4ed05ccd50c0.jpg",
-    "static/media/web-love.jpg": "/zdProject/static/media/web-love.7486e9aad1eb4357d0ee.jpg",
-    "static/media/zd-banner-mountain-highlight.png": "/zdProject/static/media/zd-banner-mountain-highlight.471d57db91a93b9e8223.png",
-    "static/media/zd-banner-mountain.png": "/zdProject/static/media/zd-banner-mountain.cd2a79d222e4a176bd8f.png",
-    "static/media/web-tool.jpg": "/zdProject/static/media/web-tool.eeac87794fffae37cbae.jpg",
-    "static/media/zdLogo.svg": "/zdProject/static/media/zdLogo.2e1fbea362673968f8e8c2db166de74d.svg",
+    "main.css": "/zdProject/static/css/main.f855e6bc.css",
+    "main.js": "/zdProject/static/js/main.cb8f42f1.js",
+    "static/js/453.6b23324d.chunk.js": "/zdProject/static/js/453.6b23324d.chunk.js",
+    "static/media/logo.svg": "/zdProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zdProject/index.html",
-    "main.0af81e34.css.map": "/zdProject/static/css/main.0af81e34.css.map",
-    "main.0a0463c0.js.map": "/zdProject/static/js/main.0a0463c0.js.map",
-    "453.19ecd426.chunk.js.map": "/zdProject/static/js/453.19ecd426.chunk.js.map"
+    "main.f855e6bc.css.map": "/zdProject/static/css/main.f855e6bc.css.map",
+    "main.cb8f42f1.js.map": "/zdProject/static/js/main.cb8f42f1.js.map",
+    "453.6b23324d.chunk.js.map": "/zdProject/static/js/453.6b23324d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0af81e34.css",
-    "static/js/main.0a0463c0.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cb8f42f1.js"
   ]
 }
